@@ -1,0 +1,3 @@
+/home/denismbuya/Systemprogramming/templates/build/CMakeFiles/template.dir
+/home/denismbuya/Systemprogramming/templates/build/CMakeFiles/edit_cache.dir
+/home/denismbuya/Systemprogramming/templates/build/CMakeFiles/rebuild_cache.dir
